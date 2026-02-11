@@ -105,6 +105,7 @@ See full [v1.0.0 Release Notes](../../releases/tag/v1.0.0) in GitHub Releases.
 ##
 <!-- Created by [Suyog Hire](https://github.com) -->
 #### **Suyog Hire** - **Solutions Architect**
+[![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat)](https://linkedin.com/in/suyoghire)
  [![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
 </div>
