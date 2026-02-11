@@ -1,0 +1,29 @@
+[project]
+name = "ai-gateway"
+version = "1.0.0"
+description = "Enterprise AI Gateway reference architecture using OpenAI Responses API"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+authors = [
+  { name = "Suyog H" }
+]
+
+dependencies = [
+  "openai>=1.0.0",
+  "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0.0",
+  "coverage",
+  "pytest-cov"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
