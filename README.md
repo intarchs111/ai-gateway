@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-purple)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 
-***Created by: [Suyog Hire - Solutions Architect](https://github.com/intarchs111)***
+***Created by: [Suyog Hire - Solutions Architect](https://linkedin.com/in/suyoghire)***
 
 ---
 
@@ -97,7 +97,7 @@ This output demonstrates the failure isolation, without application code calling
 ### Releases
 
 **📌 Release v1.0.0** : Initial AI Gateway reference implementation.  
-See full [v1.0.0 Release Notes](../../releases/tag/v1.0) in GitHub Releases.
+See full [v1.0.0 Release Notes](../../releases/tag/v1.0.0) in GitHub Releases.
 
 
 <div align="center">
