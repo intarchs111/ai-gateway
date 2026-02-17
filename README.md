@@ -17,7 +17,7 @@ This project focuses on **governance readiness, architectural boundaries, and op
 
 ## ⚡ Quick Start  
 
-[![openai-api-client](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/ai-gateway)
+[![ai-gateway](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/ai-gateway)
 
 ```bash
 git clone https://github.com/intarchs111/ai-gateway.git
